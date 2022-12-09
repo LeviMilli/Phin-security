@@ -2,6 +2,10 @@
 
 I had a react auth skeleton that I usually use for projects, and that was used to set everything up initially.
 
+I appreciate the opportunity for this.
+
+The following is everything thats set, I didn't get the CRUD up and running, just need to connect all the pieces. I spent around 5-6 hours but didnt get the core requirements quite finsihed.
+
 Structure set up with components. Database connected and set up. User Login mostly setup.
 
 To check out components enter client and app.js.
